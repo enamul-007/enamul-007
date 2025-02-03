@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [quriaboxquriabox](https://github.com/enamul-007/quriabox.git)
+- 🔭 I’m currently working on [Ecommerce app](https://github.com/enamul-007/EcommerceWeb_APP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
