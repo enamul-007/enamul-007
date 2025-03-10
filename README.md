@@ -3,13 +3,11 @@
 <!-- <img src="https://i.ibb.co/PmS7gb0/js.gif" align="center" style="width: 200%" /> -->
 </div>
 
-### <div align="center">🚀 I'm Taufik Islam, A  MERN Stack Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
+### <div align="center">🚀 I'm Enamul Houque, A  MERN Stack Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
 
 </div>
 
-- 🔭 I’m currently working on MERN stack developer as a Creative it institute .🤙
-
-- 🌱 I’m currently learning DevOps technologies.📗
+- 🔭 I’m currently Learing on MERN stack developer .🤙
 
 - ❓ Ask me about anything related to the MERN stack and related technologies
 
