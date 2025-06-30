@@ -1,81 +1,62 @@
-<div align="center">
- <img src="https://s13.gifyu.com/images/SCuzx.gif" alt="js" border="2" />
-<!-- <img src="https://i.ibb.co/PmS7gb0/js.gif" align="center" style="width: 200%" /> -->
-</div>
+<h1 align="center">Hi 👋, I'm Enamul</h1>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
-### <div align="center">🚀 I'm Enamul Houque, A  MERN Stack Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdwasim2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Animated Developer" width="60%" />
+</p>
 
-- 🔭 I’m currently Learing on MERN stack developer .🤙
+---
 
-- ❓ Ask me about anything related to the MERN stack and related technologies
+## 🌟 About Me
+- 🌱 Currently learning **EVERYTHING **
+- 💬 Ask me about: **React, Next.js, Node.js, MongoDB,  Tailwind CSS,**
+- 👨‍💻 Check out my work: [GitHub Repositories](https://github.com/enamul-007?tab=repositories)
+- 📧 Email: **anamulkhan523@gmail.com**
+- 📞 Phone: **01938777269**
+- 🔗 LinkedIn: [enamul-houqe](https://www.linkedin.com/in/enamul-houqe/)
+- ⚡ Fun fact: *I think I'm funny!*
 
-- ⚡ Fun fact: I use tabs over spaces
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-## My Skill Set
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ 
+</p>
 
-<table><tr><td valign="top" width="33%">
+---
 
-### Frontend
+## 📊 GitHub Stats
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
-<a href="https://www.openui5.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openui5.svg" alt="OpenUI5" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enamul&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enamul&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamul&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend
-
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-</div>
+---
 
 
+## 🔗 Connect with Me
 
-</table>
+<p align="center">
+  <a href="mailto:anamulkhan523@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/enamul-houqe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-<br/>
+---
 
-## Connect with me
-
-<div align="center">
-<a href="https://github.com/https://github.com/enamul-007" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/enamul-houqe/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br/>
-
-
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=taufik69&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<br />
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
